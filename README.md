@@ -1,1 +1,1 @@
-# everquest
+# EverQuest
