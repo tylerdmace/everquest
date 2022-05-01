@@ -1,0 +1,70 @@
+# everquest.iso
+## Files & Directories
+| File Name | Size | Last Modified | Description |
+| --- | --- | --- | --- |
+| ***DirectX/*** | | | A directory containing installation files for DirectX |
+| ***_INST32I.EX_*** | | | Unknown |
+| ***_ISDEL.EXE*** | | | Unknown |
+| ***_SETUP.DLL:*** | | | Unknown |
+| ***_sys1.cab:*** | | | Unknown |
+| ***_user1.cab:*** | | | Unknown |
+| ***AUTORUN.INF:*** | | | Unknown |
+| ***DATA.TAG*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***data1.cab:*** | | | Unknown |
+| ***eqintro.smk:*** | | | Unknown |
+| ***eqintro_low.smk:*** | | | Unknown |
+| ***EverQuest.ico:*** | | | Application icon file |
+| ***lang.dat:*** | | | Unknown |
+| ***layout.bin:*** | | | Unknown |
+| ***os.dat:*** | | | Unknown |
+| ***SETUP.EXE:*** | | | Unknown |
+| ***SETUP.INI:*** | | | Unknown |
+| ***setup.ins:*** | | | Unknown |
+| ***setup.lid:*** | | | Unknown |
+| ***uncompdata1.cab:*** | | | Unknown |
