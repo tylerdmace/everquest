@@ -1,7 +1,7 @@
 # EverQuest
 **Note:** This directory only contains intformation related to the original EverQuest product. Expansion explorations can be found under their own respective directories.
 
-![](./scans/box-front.jpg)
+![](everquest.jpg)
 
 ## Files & Directories
 - **everquest.iso:** A disc image of the original game
