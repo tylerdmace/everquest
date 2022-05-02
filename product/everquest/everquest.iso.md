@@ -1,5 +1,4 @@
 # everquest.iso
-## Files & Directories
 | File Name | Size | Last Modified | Description |
 | --- | --- | --- | --- |
 | *DirectX/* | 13.7mb | Feb 18 1999 | A directory containing installation files for DirectX |
