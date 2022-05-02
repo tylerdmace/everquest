@@ -56,9 +56,9 @@
 | *data45.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
 | *data46.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
 | *data47.cab* | 2.6 | Feb 17 1999 | InstallShield Cabinet |
-| *eqintro.smk* | 93.1mb | Feb 5 1999 | |
-| *eqintro_low.smk* | 33.2mb | Feb 17 1999 | |
-| *EverQuest.ico* | 766b | Aug 16 1996 | Application icon file |
+| *eqintro.smk* | 93.1mb | Feb 5 1999 | Smacker Video |
+| *eqintro_low.smk* | 33.2mb | Feb 17 1999 | Smacker Video |
+| *EverQuest.ico* | 766b | Aug 16 1996 | Application icon |
 | *lang.dat* | 4.6kb | May 30 1997 | |
 | *layout.bin* | 1.9kb | Feb 17 1999 | |
 | *os.dat* | 417b | May 6 1997 | |

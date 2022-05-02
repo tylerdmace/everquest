@@ -20,3 +20,8 @@ This repository is intended to function as a source of documentation and archiva
 - [Packaging Scans](games/velious/scans/)
 - [Disc Image](games/velious/velious.iso)
 - [Disc Image Info](games/velious/velious.iso.md)
+
+## Tools
+- [Cab Extractor](tools/cab-extractor/readme.md)
+- [Model Explorer](tools/model-explorer/readme.md)
+- [Zone Explorer](tools/zone-explorer/readme.md)
