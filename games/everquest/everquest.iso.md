@@ -1,69 +1,69 @@
 # everquest.iso
 | File Name | Size | Last Modified | Description |
 | --- | --- | --- | --- |
-| *DirectX/* | 13.7mb | Feb 18 1999 | A directory containing installation files for DirectX |
-| *_INST32I.EX_* | 291.6kb | Nov 23 1998 | InstallShield |
-| *_ISDEL.EXE* | 8.2kb | Dec 17 1997 | InstallShield |
-| *_SETUP.DLL* | 11.3kb | Dec 17 1997 | InstallShield |
-| *_sys1.cab* | 205.1kb | Feb 17 1999 | InstallShield Cabinet |
-| *_user1.cab* | 370kb | Feb 17 1999 | InstallShield Cabinet |
-| *AUTORUN.INF* | 45b | Feb 18 1999 | |
-| *DATA.TAG* | 85b | Feb 16 1999 | |
-| *data1.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data2.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data3.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data4.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data5.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data6.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data7.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data8.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data9.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data10.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data11.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data12.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data13.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data14.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data15.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data16.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data17.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data18.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data19.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data20.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data21.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data22.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data23.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data24.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data25.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data26.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data27.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data28.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data29.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data30.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data31.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data32.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data33.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data34.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data35.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data36.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data37.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data38.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data39.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data40.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data41.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data42.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data43.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data44.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data45.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data46.cab* | 8.2mb | Feb 17 1999 | InstallShield Cabinet |
-| *data47.cab* | 2.6 | Feb 17 1999 | InstallShield Cabinet |
-| *eqintro.smk* | 93.1mb | Feb 5 1999 | Smacker Video |
-| *eqintro_low.smk* | 33.2mb | Feb 17 1999 | Smacker Video |
-| *EverQuest.ico* | 766b | Aug 16 1996 | Application icon |
-| *lang.dat* | 4.6kb | May 30 1997 | |
-| *layout.bin* | 1.9kb | Feb 17 1999 | |
-| *os.dat* | 417b | May 6 1997 | |
-| *SETUP.EXE* | 60.4kb | Nov 24 1998 | |
-| *SETUP.INI* | 67b | Feb 17 1999 | |
-| *setup.ins* | 61.2kb | Feb 17 1999 | |
-| *setup.lid* | 49b | Feb 17 1999 | |
-| *uncompdata1.cab* | 2.9kb | Feb 16 1999 | InstallShield Cabinet |
+| *AUTORUN.INF* | 45  | Feb 18 1999 | |
+| *data10.cab* | 7.9M  | Feb 17 1999 | |
+| *data11.cab* | 7.8M  | Feb 17 1999 | |
+| *data12.cab* | 7.9M  | Feb 17 1999 | |
+| *data13.cab* | 7.9M  | Feb 17 1999 | |
+| *data14.cab* | 7.9M  | Feb 17 1999 | |
+| *data15.cab* | 7.9M  | Feb 17 1999 | |
+| *data16.cab* | 7.9M  | Feb 17 1999 | |
+| *data17.cab* | 7.9M  | Feb 17 1999 | |
+| *data18.cab* | 7.9M  | Feb 17 1999 | |
+| *data19.cab* | 7.9M  | Feb 17 1999 | |
+| *data1.cab* | 7.8M  | Feb 17 1999 | |
+| *data20.cab* | 7.9M  | Feb 17 1999 | |
+| *data21.cab* | 7.9M  | Feb 17 1999 | |
+| *data22.cab* | 7.9M  | Feb 17 1999 | |
+| *data23.cab* | 7.9M  | Feb 17 1999 | |
+| *data24.cab* | 7.9M  | Feb 17 1999 | |
+| *data25.cab* | 7.9M  | Feb 17 1999 | |
+| *data26.cab* | 7.8M  | Feb 17 1999 | |
+| *data27.cab* | 7.9M  | Feb 17 1999 | |
+| *data28.cab* | 7.8M  | Feb 17 1999 | |
+| *data29.cab* | 7.9M  | Feb 17 1999 | |
+| *data2.cab* | 7.9M  | Feb 17 1999 | |
+| *data30.cab* | 7.9M  | Feb 17 1999 | |
+| *data31.cab* | 7.9M  | Feb 17 1999 | |
+| *data32.cab* | 7.9M  | Feb 17 1999 | |
+| *data33.cab* | 7.9M  | Feb 17 1999 | |
+| *data34.cab* | 7.9M  | Feb 17 1999 | |
+| *data35.cab* | 7.9M  | Feb 17 1999 | |
+| *data36.cab* | 7.9M  | Feb 17 1999 | |
+| *data37.cab* | 7.9M  | Feb 17 1999 | |
+| *data38.cab* | 7.9M  | Feb 17 1999 | |
+| *data39.cab* | 7.9M  | Feb 17 1999 | |
+| *data3.cab* | 7.9M  | Feb 17 1999 | |
+| *data40.cab* | 7.9M  | Feb 17 1999 | |
+| *data41.cab* | 7.9M  | Feb 17 1999 | |
+| *data42.cab* | 7.9M  | Feb 17 1999 | |
+| *data43.cab* | 7.9M  | Feb 17 1999 | |
+| *data44.cab* | 7.9M  | Feb 17 1999 | |
+| *data45.cab* | 7.9M  | Feb 17 1999 | |
+| *data46.cab* | 7.9M  | Feb 17 1999 | |
+| *data47.cab* | 2.5M  | Feb 17 1999 | |
+| *data4.cab* | 7.9M  | Feb 17 1999 | |
+| *data5.cab* | 7.9M  | Feb 17 1999 | |
+| *data6.cab* | 7.9M  | Feb 17 1999 | |
+| *data7.cab* | 7.9M  | Feb 17 1999 | |
+| *data8.cab* | 7.8M  | Feb 17 1999 | |
+| *data9.cab* | 7.9M  | Feb 17 1999 | |
+| *DATA.TAG* | 85  | Feb 16 1999 | |
+| *DirectX* | 6.0K  | Feb 18 1999 | |
+| *eqintro_low.smk* | 32M  | Feb 17 1999 | |
+| *eqintro.smk* | 89M  | Feb 5 1999 | |
+| *EverQuest.ico* | 766  | Aug 16 1996 | |
+| *_INST32I.EX_* | 285K  | Nov 23 1998 | |
+| *_ISDEL.EXE* | 8.0K  | Dec 17 1997 | |
+| *lang.dat* | 4.5K  | May 30 1997 | |
+| *layout.bin* | 1.9K  | Feb 17 1999 | |
+| *os.dat* | 417  | May 6 1997 | |
+| *_SETUP.DLL* | 11K  | Dec 17 1997 | |
+| *SETUP.EXE* | 59K  | Nov 24 1998 | |
+| *SETUP.INI* | 67  | Feb 17 1999 | |
+| *setup.ins* | 60K  | Feb 17 1999 | |
+| *setup.lid* | 49  | Feb 17 1999 | |
+| *_sys1.cab* | 201K  | Feb 17 1999 | |
+| *uncompdata1.cab* | 2.9K  | Feb 16 1999 | |
+| *_user1.cab* | 362K  | Feb 17 1999 | |
